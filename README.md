@@ -66,5 +66,5 @@ python3 "Line-abstraction.py"
 
 You can modify the following parameters to customize the output effect:
 
-- `line_count`: Number of lines, affecting画面 complexity
+- `line_count`: Number of lines, affecting frame complexity
 - Color generation algorithm: Can adjust color range and saturation
